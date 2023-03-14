@@ -18,31 +18,9 @@ for review in reviews:
         # print(f'-{comment.text}, stars:{str(stars)}')
     # print(reviews)
 # print(len(reviews))
-categories = [
-'Overcrowded store',
-'Limited product variety',
-'Repetitious promotions',
-'Redundant features',
-'Inability to purchase or order products',
-'Difficulty in logging in',
-'Inability to redeem vouchers',
-'Unresponsive or crashing back button',
-'Security concerns',
-'Lack of payment gateway',
-'Poor search functionality',
-'Limited product information',
-'None']
-'''\n\nCategories: {str(categories)}'''
-# description = sentences[0]
 
-s = [f'\n{(str(i+1))}: {v[0]}' for i,v in enumerate(sentences)]
-test = ''.join(s[:5])
-print(test)
-
-query = f'Categorise all pain point or positive points of the review \n\n{test}\n\nreturn the answer in a list of json object with keys: "category":str,"confidence":int,"sentiment":str,"comment_index":int'
-# # format = 'comment: str, stars: int, category: str, sentiment: int'
 print('\n')
-# print(query)
+
 
 result_list = []
 for sen in sentences:
