@@ -1,0 +1,475 @@
+[
+    {
+        "functionality": {
+            "negative": 39,
+            "positive": 3
+        }
+    },
+    {
+        "user experience": {
+            "negative": 28
+        }
+    },
+    {
+        "usability": {
+            "negative": 20
+        }
+    },
+    {
+        "ease of use": {
+            "negative": 12
+        }
+    },
+    {
+        "customer support": {
+            "negative": 10
+        }
+    },
+    {
+        "app functionality": {
+            "negative": 10
+        }
+    },
+    {
+        "navigation": {
+            "negative": 6
+        }
+    },
+    {
+        "technical issue": {
+            "negative": 5
+        }
+    },
+    {
+        "online shopping": {
+            "negative": 4
+        }
+    },
+    {
+        "customer service": {
+            "negative": 4
+        }
+    },
+    {
+        "value for money": {
+            "negative": 3
+        }
+    },
+    {
+        "payment": {
+            "negative": 3
+        }
+    },
+    {
+        "promotions": {
+            "negative": 3,
+            "positive": 2
+        }
+    },
+    {
+        "product/service quality": {
+            "negative": 2
+        }
+    },
+    {
+        "overall experience": {
+            "positive": 1,
+            "negative": 2
+        }
+    },
+    {
+        "value": {
+            "negative": 2
+        }
+    },
+    {
+        "e-commerce": {
+            "negative": 2
+        }
+    },
+    {
+        "online purchase": {
+            "negative": 2
+        }
+    },
+    {
+        "efficiency": {
+            "negative": 2
+        }
+    },
+    {
+        "authentication": {
+            "negative": 2
+        }
+    },
+    {
+        "pain point": {
+            "negative": 2
+        }
+    },
+    {
+        "expectations": {
+            "negative": 2
+        }
+    },
+    {
+        "account management": {
+            "negative": 2
+        }
+    },
+    {
+        "product information": {
+            "negative": 2
+        }
+    },
+    {
+        "user interface": {
+            "negative": 2
+        }
+    },
+    {
+        "login": {
+            "negative": 2
+        }
+    },
+    {
+        "delivery": {
+            "negative": 2
+        }
+    },
+    {
+        "shopping experience": {
+            "negative": 2
+        }
+    },
+    {
+        "availability": {
+            "negative": 1
+        }
+    },
+    {
+        "product": {
+            "negative": 1
+        }
+    },
+    {
+        "website navigation": {
+            "negative": 1
+        }
+    },
+    {
+        "purchasing": {
+            "negative": 1
+        }
+    },
+    {
+        "reliability": {
+            "negative": 1
+        }
+    },
+    {
+        "privacy": {
+            "negative": 1
+        }
+    },
+    {
+        "payment process": {
+            "negative": 1
+        }
+    },
+    {
+        "content": {
+            "negative": 1
+        }
+    },
+    {
+        "purpose": {
+            "negative": 1
+        }
+    },
+    {
+        "technical difficulty": {
+            "negative": 1
+        }
+    },
+    {
+        "marketing": {
+            "negative": 1
+        }
+    },
+    {
+        "technical performance": {
+            "negative": 1
+        }
+    },
+    {
+        "options": {
+            "negative": 1
+        }
+    },
+    {
+        "technology": {
+            "negative": 1
+        }
+    },
+    {
+        "convenience": {
+            "negative": 1
+        }
+    },
+    {
+        "shopping": {
+            "negative": 1
+        }
+    },
+    {
+        "product selection": {
+            "negative": 1
+        }
+    },
+    {
+        "ease of purchase": {
+            "negative": 1
+        }
+    },
+    {
+        "time": {
+            "negative": 1
+        }
+    },
+    {
+        "apps": {
+            "negative": 1
+        }
+    },
+    {
+        "ordering process": {
+            "negative": 1
+        }
+    },
+    {
+        "list making": {
+            "negative": 1
+        }
+    },
+    {
+        "grocery shopping": {
+            "negative": 1
+        }
+    },
+    {
+        "sign up process": {
+            "negative": 1
+        }
+    },
+    {
+        "purchase history": {
+            "negative": 1
+        }
+    },
+    {
+        "bug": {
+            "negative": 1
+        }
+    },
+    {
+        "app design/usability": {
+            "negative": 1
+        }
+    },
+    {
+        "delivery service": {
+            "negative": 1
+        }
+    },
+    {
+        "online purchases": {
+            "negative": 1
+        }
+    },
+    {
+        "shopping features": {
+            "negative": 1
+        }
+    },
+    {
+        "connectivity": {
+            "negative": 1
+        }
+    },
+    {
+        "features": {
+            "negative": 1
+        }
+    },
+    {
+        "setup process": {
+            "negative": 1
+        }
+    },
+    {
+        "online ordering": {
+            "negative": 1
+        }
+    },
+    {
+        "testing": {
+            "negative": 1
+        }
+    },
+    {
+        "installation": {
+            "negative": 1
+        }
+    },
+    {
+        "ease of ordering": {
+            "negative": 1
+        }
+    },
+    {
+        "registration process": {
+            "negative": 1
+        }
+    },
+    {
+        "benefits": {
+            "negative": 1
+        }
+    },
+    {
+        "privacy concerns": {
+            "negative": 1
+        }
+    },
+    {
+        "purchase history feature": {
+            "negative": 1
+        }
+    },
+    {
+        "downloading problem": {
+            "negative": 1
+        }
+    },
+    {
+        "auto-redeem": {
+            "negative": 1
+        }
+    },
+    {
+        "redemption": {
+            "negative": 1
+        }
+    },
+    {
+        "app purpose": {
+            "negative": 1
+        }
+    },
+    {
+        "order placement": {
+            "negative": 1
+        }
+    },
+    {
+        "product display": {
+            "negative": 1
+        }
+    },
+    {
+        "value proposition": {
+            "negative": 1
+        }
+    },
+    {
+        "promotion": {
+            "negative": 1
+        }
+    },
+    {
+        "store layout": {
+            "negative": 1
+        }
+    },
+    {
+        "inventory management": {
+            "negative": 1
+        }
+    },
+    {
+        "performance": {
+            "positive": 1
+        }
+    },
+    {
+        "positive point": {
+            "neutral": 1
+        }
+    },
+    {
+        "online sales": {
+            "positive": 1
+        }
+    },
+    {
+        "lucky draw app": {
+            "neutral": 1
+        }
+    },
+    {
+        "feature request": {
+            "neutral": 1
+        }
+    },
+    {
+        "comparison to ntuc app": {
+            "positive": 1
+        }
+    },
+    {
+        "lucky draw": {
+            "positive": 1
+        }
+    },
+    {
+        "simplicity": {
+            "positive": 1
+        }
+    },
+    {
+        "speed": {
+            "positive": 1
+        }
+    },
+    {
+        "rewards": {
+            "positive": 3
+        }
+    },
+    {
+        "suggestions for improvement": {
+            "positive": 1
+        }
+    },
+    {
+        "receipt printing feature": {
+            "positive": 1
+        }
+    },
+    {
+        "service": {
+            "positive": 1
+        }
+    },
+    {
+        "price": {
+            "positive": 1
+        }
+    },
+    {
+        "product range": {
+            "positive": 1
+        }
+    }
+]
