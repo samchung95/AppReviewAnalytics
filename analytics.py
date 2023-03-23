@@ -31,4 +31,9 @@ d = {
 
 df = pd.DataFrame(data=d)
 
+# Create histogram with df
+
+
+
+
 print(df.head())
