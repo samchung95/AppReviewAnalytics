@@ -1,12 +1,12 @@
 import json
 from pprint import pprint
 
-f = open('results.json')
+f = open('results_raw_new.json')
 data = json.load(f)
 
 cats = {}
 for r in data:
-    cat = r['category'].lower()
+    cat = r['main_category'].lower()
     sen = r['sentiment'].lower()
 
 
